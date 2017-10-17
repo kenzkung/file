@@ -1,0 +1,6 @@
+﻿initial project + api + web infra + account system 4
+index(cart,search,favorite,product detail,po number by product) 4
+confirm order + รายละเอียดสินค้า 1
+po status + po detail + report 2
+payment page + bank api 1
+master my order form + cost center  1
